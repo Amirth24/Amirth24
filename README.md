@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on Machine Learning Projects...<br>I'm Currently Learning Web development and Deep Learning.<br>I've knowledge on python, scikit-learn, javascript and more...
+I'm a passionate developer with a love for AI, Machine Learning, and Web Development.<br>My curiosity drives me to explore AI's limitless possibilities while crafting seamless web experiences.<br>I'm a firm believer in continuous learning, and am always excited to embrace new technologies.
 
 
 ## 🌐 Socials:
