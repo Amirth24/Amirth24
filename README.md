@@ -14,9 +14,6 @@ I'm a passionate developer with a love for AI, Machine Learning, and Web Develop
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amirth24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Amirth24330)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
